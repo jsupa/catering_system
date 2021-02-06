@@ -1,0 +1,15 @@
+{
+  "name": "emoji_compailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "clear && node app.js"
+  },
+  "keywords": [],
+  "author": "Spitik",
+  "license": "ISC",
+  "dependencies": {
+    "filesystem": "^1.0.1"
+  }
+}

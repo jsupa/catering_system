@@ -1,0 +1,19 @@
+{
+  "name": "Catering_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Spitik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-list-endpoints": "^5.0.0",
+    "ip": "^1.1.5",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  }
+}
